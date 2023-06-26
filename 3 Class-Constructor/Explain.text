@@ -1,0 +1,11 @@
+Classes constructor is a magic method
+a) Constructor execute automatically when object is created
+b) Constructor can take parameter
+c) Constructor method can't return any result
+
+
+//constructor hosse class er akta method
+
+// Class er Object create korar rules hosse:
+ new likha, tarpor Class er name likha tarpor parenthesis deya: new person();
+

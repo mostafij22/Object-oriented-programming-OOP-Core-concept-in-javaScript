@@ -1,0 +1,11 @@
+Static Keyword
+a) The static keyword is used to define a static method or property of a class.
+b) To call the static method we do not need to create an instance or object of the class.
+c) We create a static variable in JavaScript to prevent replication
+d) Fixed configuration, and it is also useful for caches
+
+
+//kono class er samne jodi amra Static keyword use kore 
+ tahole oi property k call korar jonno object create korte hoy na karon sorasori class er sate somporko toiri hoi
+ 
+

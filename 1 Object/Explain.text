@@ -1,0 +1,12 @@
+Object:
+
+An Object is a unique entity that contains properties like.
+a) variable type properties
+b) methods
+c) object
+d) array
+e) and more....
+
+
+
+"In JavaScript, an object is a data type that allows you to store and organize related data and functions together. It is a collection of key-value pairs, where the keys are strings (or symbols in ES6+) that act as unique identifiers, and the values can be of any data type, including other objects."
